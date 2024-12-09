@@ -1,0 +1,13 @@
+Flask
+Flask-Mail
+mysql-connector-python
+google-auth
+google-auth-oauthlib
+bcrypt
+python-dotenv
+twilio
+midtransclient
+pandas
+fpdf
+flask-socketio
+requests
